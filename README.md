@@ -20,9 +20,9 @@ The application allows users to login and register, browse and purchase clothing
   - Express
   - MongoDB with Mongoose
   - JWT
-
+    
 ### Demo
-<img src="Demo1.gif" width="500" alt="Demo">
+<img src="Demo1.gif" width="500" alt="Demo">   
 <img src="Demo2.gif" width="500" alt="Demo">
 
 ### Getting Started
