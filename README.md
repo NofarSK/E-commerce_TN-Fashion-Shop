@@ -43,4 +43,3 @@ Make sure you have Node.js and npm installed.
 - Start frontend the server: npm start
 
 Make sure you set up your environment variables for your own MONGO_URI, PORT, JWT_SECRET in a .env file in order to have the backend server avaiable.
-.
